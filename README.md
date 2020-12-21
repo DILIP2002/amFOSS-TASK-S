@@ -5,5 +5,7 @@ are been used only for calling and playing small games and  day by day are the t
 is really advanced model which is major profit for iphone they thought now iphone had updated to face like its is a small example i am saying all the people like to 
 update with new things and they will forgot about old thing.By seeing that new software updates i used to see bug are cleared so that i had started to google it and 
 tried to learn and i had learned some stuff.so in that time onwards i had decided to become a software developer  and full fill my dream to creat a software or
-app. so that is reason i had joined in amrita and choosed AMfoss
+app. so that is reason i had joined in amrita and choosed AMfoss.                                                                     .
+
+
    --------------------------------------------THANKS FOR READING----------------------------------------------------------------------------
