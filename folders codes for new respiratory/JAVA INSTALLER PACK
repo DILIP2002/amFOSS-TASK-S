@@ -1,0 +1,15 @@
+echo "# java_installer_pack" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/DILIP2002/java_installer_pack.git
+git push -u origin main
+                
+                
+                
+                
+                EXISTING RESPO
+git remote add origin https://github.com/DILIP2002/java_installer_pack.git
+git branch -M main
+git push -u origin main
